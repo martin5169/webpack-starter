@@ -9,6 +9,6 @@ Recuerden reconstruir los nodules de Node
 npm install
 ```
 y para construir el build:
-``
-npm run build`
-``
+```
+npm run build
+```
